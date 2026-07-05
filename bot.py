@@ -3,7 +3,7 @@ import random
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Replace with the HTTP API token you got from @BotFather
-BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+BOT_TOKEN = '8705349467:AAECcFLo8UQjnzhYDSwl7jKFyIUbPoZKAO8'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # In-memory database to store player profiles and their active cards
